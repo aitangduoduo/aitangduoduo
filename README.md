@@ -28,7 +28,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hello%2C+I%27m+Aitangduoduo+%F0%9F%91%8B;Master%27s+Student;Computer+Vision+%26+Multimodal+fusion;Remote+Sensing+for+semantic+segmentation"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hello%2C+I%27m+Aitangduoduo+%F0%9F%91%8B;Master%27s+Student;Computer+Vision+%26+Multimodal+Fusion;Semantic+Segmentation+for+Remote+Sensing"
       alt="Typing SVG"
     />
   </a>
