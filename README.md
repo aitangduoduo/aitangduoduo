@@ -76,12 +76,12 @@ Welcome to my GitHub profile! I'm a master's student interested in computer visi
 Research on optical and SAR image fusion for remote sensing image semantic segmentation, focusing on multimodal feature interaction, scale diversity, and geometric inconsistency.
 
 
+
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=aitangduoduo&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aitangduoduo&layout=compact&theme=tokyonight&langs_count=8" width="48%" />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=aitangduoduo&show_icons=true&theme=tokyonight&hide_border=true&v=2)](https://github.com/aitangduoduo)
+
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=aitangduoduo&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&v=2)](https://github.com/aitangduoduo)
 
 ---
 
