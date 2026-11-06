@@ -102,18 +102,6 @@ Research on optical and SAR image fusion for remote sensing image semantic segme
   </tr>
 </table>
 
-
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=aitangduoduo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"
-    width="100%"
-    alt="GitHub Trophies"
-  />
-</p>
-
 ---
 
 ⭐ Thanks for visiting my GitHub profile!
