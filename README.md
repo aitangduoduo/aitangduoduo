@@ -24,16 +24,17 @@ Welcome to my GitHub profile! I'm a master's student interested in computer visi
 
 **Programming & Development**
 
-- Python
-- MATLAB
-- C / C++
+## 🛠️ Technical Skills
 
-**Research Areas**
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab" />
+</p>
 
-- Deep Learning
-- Computer Vision
-- Multimodal fusion
-- Remote Sensing Image Processing
+### Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ## 📚 Research Projects
 
