@@ -1,3 +1,35 @@
+<!-- Welcome Banner -->
+<p align="center">
+  <img src="./assets/Bottom_up.svg" width="100%">
+</p>
+
+<!-- Profile Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Researching-brightgreen.svg">
+  <img src="https://img.shields.io/badge/Field-Remote%20Sensing-blue.svg">
+  <img src="https://img.shields.io/badge/Focus-Deep%20Learning-orange.svg">
+  <img src="https://img.shields.io/github/stars/aitangduoduo/aitangduoduo?style=flat">
+  <img src="https://img.shields.io/github/forks/aitangduoduo/aitangduoduo?style=flat">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aitangduoduo.aitangduoduo">
+</p>
+
+<!-- Technology Banner -->
+<p align="center">
+  <img src="./src/header_.png" width="100%">
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Aitang;Master%27s+Student+in+Engineering;Researcher+in+Remote+Sensing;Exploring+Multimodal+Deep+Learning;Always+Learning+New+Things" />
+  </a>
+</p>
+
+<!-- Python Logo -->
+<a href="https://www.python.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+       align="right" height="48" width="48">
+</a>
 # Hi, I'm Aitang duodouo 👋
 
 ### Academic Researcher | Master's Student
