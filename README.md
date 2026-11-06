@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Aitang 👋
 
-<!--
-**aitangduoduo/aitangduoduo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Academic Researcher | Master's Student
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a master's student interested in computer vision, multimodal fusion, and remote sensing image processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍🎓 About Me
+
+- 🎓 Master's Student
+- 🔭 Researching Multimodal Remote Sensing Image Semantic Segmentation
+- 🛰️ Interested in Optical and SAR Image Fusion
+- 💻 Interested in Deep Learning and Computer Vision
+
+## 🔬 Research Interests
+
+- Multimodal Remote Sensing
+- Optical-SAR Data Fusion
+- Semantic Segmentation
+- Deep Learning
+
+## 🛠️ Technical Skills
+
+**Programming & Development**
+
+- Python
+- MATLAB
+- C / C++
+
+**Research Areas**
+
+- Deep Learning
+- Computer Vision
+- Multimodal fusion
+- Remote Sensing Image Processing
+
+## 📚 Research Projects
+
+### 1. Multimodal Remote Sensing Image Semantic Segmentation
+
+Research on optical and SAR image fusion for remote sensing image semantic segmentation, focusing on multimodal feature interaction, scale diversity, and geometric inconsistency.
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aitangduoduo&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aitangduoduo&layout=compact&theme=default&hide_border=true)
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
+
