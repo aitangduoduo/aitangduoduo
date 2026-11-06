@@ -1,4 +1,4 @@
-# Hi, I'm Aitang 👋
+# Hi, I'm Aitang duodouo 👋
 
 ### Academic Researcher | Master's Student
 
