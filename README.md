@@ -65,14 +65,9 @@ Welcome to my GitHub profile! I'm a master's student interested in computer visi
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab" />
-</p>
-
-### Development Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+- Python
+- MATLAB
+- C / C++
 
 ## 📚 Research Projects
 
