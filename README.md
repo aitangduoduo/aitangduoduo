@@ -81,26 +81,29 @@ Research on optical and SAR image fusion for remote sensing image semantic segme
 
 
 <!-- GitHub Statistics -->
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">
 
 <table align="center">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="middle">
       <img
-        src="https://github-stats-extended.vercel.app/api?username=aitangduoduo&show_icons=true&theme=tokyonight&hide_border=true&card_width=450"
+        src="https://github-stats-extended.vercel.app/api?username=aitangduoduo&show_icons=true&theme=tokyonight&hide_border=true&card_width=420"
         width="100%"
+        height="180"
         alt="GitHub Stats"
       />
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="middle">
       <img
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=aitangduoduo&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&card_width=450"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=aitangduoduo&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&card_width=420"
         width="100%"
+        height="180"
         alt="Top Languages"
       />
     </td>
   </tr>
 </table>
+
 ---
 
 ⭐ Thanks for visiting my GitHub profile!
