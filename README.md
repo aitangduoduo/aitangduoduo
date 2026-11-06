@@ -1,6 +1,9 @@
 <!-- Welcome Banner -->
 <p align="center">
-  <img src="./assets/Bottom_up.svg" width="100%">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:8064A2,100:536B8F&height=180&section=header&text=Welcome%20to%20my%20profile!&fontSize=42&fontColor=ffffff&fontAlignY=38"
+    width="100%"
+  />
 </p>
 
 <!-- Profile Badges -->
@@ -15,7 +18,10 @@
 
 <!-- Technology Banner -->
 <p align="center">
-  <img src="./src/header_.png" width="100%">
+  <img
+    src="https://raw.githubusercontent.com/aitangduoduo/aitangduoduo/main/src/header_.png"
+    width="100%"
+  />
 </p>
 
 <!-- Typing Animation -->
@@ -51,10 +57,6 @@ Welcome to my GitHub profile! I'm a master's student interested in computer visi
 - Optical-SAR Data Fusion
 - Semantic Segmentation
 - Deep Learning
-
-## 🛠️ Technical Skills
-
-**Programming & Development**
 
 ## 🛠️ Technical Skills
 
