@@ -25,9 +25,13 @@
 </p>
 
 <!-- Typing Animation -->
+<!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Aitang;Master%27s+Student+in+Engineering;Researcher+in+Remote+Sensing;Exploring+Multimodal+Deep+Learning;Always+Learning+New+Things" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hello%2C+I%27m+Aitang+%F0%9F%91%8B;Master%27s+Student+%7C+Researcher;Multimodal+Remote+Sensing;Deep+Learning+%26+Semantic+Segmentation;Exploring+Intelligent+Gas+Sensors"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
@@ -36,7 +40,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
        align="right" height="48" width="48">
 </a>
-# Hi, I'm Aitang duodouo 👋
+## Hi, I'm Aitang duodouo 👋
 
 ### Academic Researcher | Master's Student
 
