@@ -25,11 +25,10 @@
 </p>
 
 <!-- Typing Animation -->
-<!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hello%2C+I%27m+Aitangduoduo+%F0%9F%91%8B;Master%27s+Student+%7C+Researcher;Multimodal+Remote+Sensing;Deep+Learning+%26+Semantic+Segmentation"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hello%2C+I%27m+Aitangduoduo+%F0%9F%91%8B;Master%27s+Student;Computer+Vision;Multimodal+fusion"
       alt="Typing SVG"
     />
   </a>
@@ -51,16 +50,12 @@ Welcome to my GitHub profile! I'm a master's student interested in computer visi
 ## 👨‍🎓 About Me
 
 - 🎓 Master's Student
-- 🔭 Researching Multimodal Remote Sensing Image Semantic Segmentation
-- 🛰️ Interested in Optical and SAR Image Fusion
 - 💻 Interested in Deep Learning and Computer Vision
 
 ## 🔬 Research Interests
 
-- Multimodal Remote Sensing
-- Optical-SAR Data Fusion
-- Semantic Segmentation
-- Deep Learning
+- Multimodal Remote Sensing Image Semantic Segmentation
+- Optical and SAR Image Fusion
 
 ## 🛠️ Technical Skills
 
@@ -74,8 +69,6 @@ Welcome to my GitHub profile! I'm a master's student interested in computer visi
 ### 1. Multimodal Remote Sensing Image Semantic Segmentation
 
 Research on optical and SAR image fusion for remote sensing image semantic segmentation, focusing on multimodal feature interaction, scale diversity, and geometric inconsistency.
-
-
 
 ## 📊 GitHub Statistics
 
