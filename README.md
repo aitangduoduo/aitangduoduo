@@ -28,7 +28,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hello%2C+I%27m+Aitangduoduo+%F0%9F%91%8B;Master%27s+Student;Computer+Vision;Multimodal+fusion"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hello%2C+I%27m+Aitangduoduo+%F0%9F%91%8B;Master%27s+Student;Computer+Vision+%26+Multimodal+fusion;Remote+Sensing+for+semantic+segmentation"
       alt="Typing SVG"
     />
   </a>
@@ -40,8 +40,6 @@
        align="right" height="48" width="48">
 </a>
 # Hi, I'm Aitang duodouo 👋
-
-### Academic Researcher | Master's Student
 
 Welcome to my GitHub profile! I'm a master's student interested in computer vision, multimodal fusion, and remote sensing image processing.
 
